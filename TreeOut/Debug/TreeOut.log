@@ -1,0 +1,6 @@
+﻿  TreeOut.c
+e:\microsoft visual studio\project\treeout\treeout\treeout.c(40): warning C4013: “malloc”未定义；假设外部返回 int
+e:\microsoft visual studio\project\treeout\treeout\treeout.c(41): warning C4013: “memset”未定义；假设外部返回 int
+e:\microsoft visual studio\project\treeout\treeout\treeout.c(94): warning C4013: “memcpy”未定义；假设外部返回 int
+e:\microsoft visual studio\project\treeout\treeout\treeout.c(78): warning C4172: 返回局部变量或临时变量的地址: header
+  TreeOut.vcxproj -> E:\Microsoft Visual Studio\project\TreeOut\Debug\TreeOut.exe
